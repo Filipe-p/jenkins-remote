@@ -6,7 +6,8 @@ https://www.jenkins.io/doc/book/installing/linux/
 
 ```bash
 
-
+git push origin main
+git pull origin main
 
 ```
 
@@ -24,3 +25,7 @@ git checkout -b new-branch
 ```
 
 More code more text. This is great
+
+More new documentation 
+
+Continue with branch work
